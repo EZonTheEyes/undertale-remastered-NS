@@ -25,6 +25,7 @@ Compatible with Official Hardware & Emulators
 - A LEGITIMATE, LEGAL copy of Undertale for the Nintendo Switch
 (https://www.nintendo.com/us/store/products/undertale-switch/)
 
+![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/350f7736-00dc-4143-8b73-f8a545b61620)
 
 ===Installation:===
 
