@@ -5,6 +5,8 @@ A port of the Undertale Remastered Mod to the Nintendo Switch version of the gam
 
 Port of the Undertale Remastered Mod to the Nintendo Switch by patching the game.win file. 
 
+Compatible with Official Hardware & Emulators
+
 Original Mod created by Michael_King for use with the PC Release of Undertale: https://www.moddb.com/mods/na29410
 
 Port by EZonTheEyes: https://github.com/EZonTheEyes, https://allmylinks.com/ezontheeyes
