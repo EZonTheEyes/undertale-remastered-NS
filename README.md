@@ -49,3 +49,9 @@ Port by EZonTheEyes: https://github.com/EZonTheEyes, https://allmylinks.com/ezon
 Made with Undertale Mod Tools: https://github.com/krzys-h/UndertaleModTool
 
 For use with Delta Patcher 3.0.1: https://www.romhacking.net/utilities/704/
+
+# Project To Do:
+
+- Better Doccument how to use the exported game assets to modify game.win/data.win using Undertale Mod Tools
+- Export out REMASTERED MOD SPECIFIC Differences in code between Vanilla PC Release and Remastered PC V0.8.1 Release
+- Finish importing the .1% of unimplimented sprites used in battle animations by the mod (Assets completed)
