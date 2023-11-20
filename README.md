@@ -3,7 +3,7 @@ A port of the Undertale Remastered Mod to the Nintendo Switch version of the gam
 
 Port of the Undertale Remastered Mod to the Nintendo Switch by patching the game.win file. This mod replaces Sprites and Textures to change the games artstyle from mostly monochrome, including the Switch exclusive content, to fully colored spritework.
 
-![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/9e5b19d0-a518-46e8-abcd-e38f584ececf)
+![image](https://yt3.ggpht.com/VnyL-4joEOlP3pEQzJscXiylw3k7G3xKY1t50XkfHQSJx94-OhjfO4mQH2RIQU3HquKbL8XrVoGE=s600-nd-v1-rwa)
 
 Compatible with Official Hardware & Emulators
 
@@ -26,11 +26,10 @@ Compatible with Official Hardware & Emulators
 
 For Installation methods, please see the readme included for each respective .xdelta method
 
-![image](https://yt3.ggpht.com/VnyL-4joEOlP3pEQzJscXiylw3k7G3xKY1t50XkfHQSJx94-OhjfO4mQH2RIQU3HquKbL8XrVoGE=s600-nd-v1-rwa)
-
 # Images:
 
 - Fully Colored Sprites with Animations for Every NPC and Encounter
+![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/9e5b19d0-a518-46e8-abcd-e38f584ececf)
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/4c5373ba-951b-46a3-9a74-2053d04e1bed)
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/e222635e-4ce8-4362-9c92-23453ac4b4ed)
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/869b345a-c517-4642-b8d6-7f8d49819d9d)
