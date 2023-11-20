@@ -43,6 +43,7 @@ For Installation methods, please see the readme included for each respective .xd
 - Compatible in Switch Emulators, too (Images Thanks to Yuzu, Strato.)
 
 ===Credits:===
+
 Original Mod created by Michael_King for use with the PC Release of Undertale: https://www.moddb.com/mods/na29410
 
 Port by EZonTheEyes: https://github.com/EZonTheEyes, https://allmylinks.com/ezontheeyes
