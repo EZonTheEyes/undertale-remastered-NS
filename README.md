@@ -2,6 +2,7 @@
 A port of the Undertale Remastered Mod to the Nintendo Switch version of the game.
 
 ===Description & Credits:===
+
 Port of the Undertale Remastered Mod to the Nintendo Switch by patching the game.win file. 
 
 Original Mod created by Michael_King for use with the PC Release of Undertale: https://www.moddb.com/mods/na29410
@@ -14,6 +15,7 @@ For use with Delta Patcher 3.0.1: https://www.romhacking.net/utilities/704/
 
 
 ===Requirements:===
+
 - Hacked Switch running CFW (See Hekate, Atmosphere, Ect.) 
 (Hekate: https://github.com/CTCaer/hekate/releases) 
 (Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases) 
@@ -29,4 +31,5 @@ For use with Delta Patcher 3.0.1: https://www.romhacking.net/utilities/704/
 
 
 ===Installation:===
+
 For Installation methods, please see the readme included for each respective .xdelta method
