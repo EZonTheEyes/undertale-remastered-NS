@@ -1,4 +1,4 @@
-# undertale-remastered-NS
+# Undertale-Remastered-NS
 A port of the Undertale Remastered Mod to the Nintendo Switch version of the game.
 
 ===Description & Credits:===
