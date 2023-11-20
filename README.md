@@ -3,7 +3,8 @@ A port of the Undertale Remastered Mod to the Nintendo Switch version of the gam
 
 ===Description:===
 
-Port of the Undertale Remastered Mod to the Nintendo Switch by patching the game.win file. 
+Port of the Undertale Remastered Mod to the Nintendo Switch by patching the game.win file. This mod replaces Sprites and Textures to change the games artstyle from mostly monochrome, including the Switch exclusive content, to fully colored spritework.
+
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/9e5b19d0-a518-46e8-abcd-e38f584ececf)
 
 Compatible with Official Hardware & Emulators
