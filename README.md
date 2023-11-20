@@ -1,7 +1,5 @@
-# Undertale-Remastered-NS
+# Description
 A port of the Undertale Remastered Mod to the Nintendo Switch version of the game.
-
-===Description:===
 
 Port of the Undertale Remastered Mod to the Nintendo Switch by patching the game.win file. This mod replaces Sprites and Textures to change the games artstyle from mostly monochrome, including the Switch exclusive content, to fully colored spritework.
 
@@ -9,8 +7,7 @@ Port of the Undertale Remastered Mod to the Nintendo Switch by patching the game
 
 Compatible with Official Hardware & Emulators
 
-
-===Requirements:===
+# Requirements:
 
 - Hacked Switch running CFW (See Hekate, Atmosphere, Ect.) 
 (Hekate: https://github.com/CTCaer/hekate/releases) 
@@ -25,13 +22,13 @@ Compatible with Official Hardware & Emulators
 - A LEGITIMATE, LEGAL copy of Undertale for the Nintendo Switch
 (https://www.nintendo.com/us/store/products/undertale-switch/)
 
-===Installation:===
+# Installation:
 
 For Installation methods, please see the readme included for each respective .xdelta method
 
 ![image](https://yt3.ggpht.com/VnyL-4joEOlP3pEQzJscXiylw3k7G3xKY1t50XkfHQSJx94-OhjfO4mQH2RIQU3HquKbL8XrVoGE=s600-nd-v1-rwa)
 
-- Images:
+# Images:
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/4c5373ba-951b-46a3-9a74-2053d04e1bed)
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/e222635e-4ce8-4362-9c92-23453ac4b4ed)
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/869b345a-c517-4642-b8d6-7f8d49819d9d)
@@ -43,7 +40,7 @@ For Installation methods, please see the readme included for each respective .xd
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/47fcd64a-7911-4ae5-87d2-407c579ffef7)
 - Compatible in Switch Emulators, too (Images Thanks to Yuzu, Strato.)
 
-===Credits:===
+# Credits:
 
 Original Mod created by Michael_King for use with the PC Release of Undertale: https://www.moddb.com/mods/na29410
 
