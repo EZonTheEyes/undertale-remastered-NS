@@ -1,4 +1,4 @@
-# Description
+# Description:
 A port of the Undertale Remastered Mod to the Nintendo Switch version of the game.
 
 Port of the Undertale Remastered Mod to the Nintendo Switch by patching the game.win file. This mod replaces Sprites and Textures to change the games artstyle from mostly monochrome, including the Switch exclusive content, to fully colored spritework.
