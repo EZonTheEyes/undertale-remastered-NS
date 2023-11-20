@@ -37,7 +37,7 @@ For use with Delta Patcher 3.0.1: https://www.romhacking.net/utilities/704/
 
 For Installation methods, please see the readme included for each respective .xdelta method
 
--Images:
+- Images:
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/4c5373ba-951b-46a3-9a74-2053d04e1bed)
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/e222635e-4ce8-4362-9c92-23453ac4b4ed)
 ![image](https://github.com/EZonTheEyes/undertale-remastered-NS/assets/103911396/869b345a-c517-4642-b8d6-7f8d49819d9d)
