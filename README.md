@@ -26,7 +26,9 @@ Compatible with Official Hardware & Emulators
 
 # Installation:
 
-For Installation methods, please see the readme included for each respective .xdelta method
+For Installation methods, please see the readme included for each respective .xdelta method, or the following video guide:
+
+[<img src="https://i.ytimg.com/vi/pd-wdxguQNU/maxresdefault.jpg" width="90%">](https://youtu.be/pd-wdxguQNU?si=4ONrSRYF3h906rVe "How To Install UNDERTALE: COLORED SPRITES | UNDERTALE: REMASTERED MOD ON NINTENDO SWITCH + ANDROID")
 
 # Images:
 
